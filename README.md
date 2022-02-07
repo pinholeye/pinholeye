@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pinholeye
 - 👀 I’m interested in data science including deep learning with medical/biological background
-- 🌱 I’m currently learning nextflow
+- 🌱 I’m currently learning nextflow and groovy
 - 💞️ I’m looking to collaborate on projects around - cancer biology/immunology
 - 📫 How to reach me pinholeye@gmail.com
 
